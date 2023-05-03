@@ -9,6 +9,10 @@ This repo aim's to build a Unity scene of simulating throwing motion in VR.
 5. git push
 
 
+
+
 ## Project Structure
 <img width="1027" alt="image" src="https://user-images.githubusercontent.com/70834897/235410433-b754697a-7271-40f0-aab4-9a1a05a7f091.png">
 
+## Project Tech Stack
+Unity 2021.3.24f1
